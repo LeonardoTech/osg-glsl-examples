@@ -1,0 +1,1 @@
+This series of OpenScenegraph (OSG) applications show how to implement some of the most common shaders in glsl, some of the included effects are: Ambient Occlusion, Bump Mapping, High Dynamic Range (HDR), Parallax Map, Depth of Field, etc.
